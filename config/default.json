@@ -1,0 +1,21 @@
+{
+  "areaName": "shanghai",
+  "_areaId": 1,
+  "people": [
+    {
+      "_id": 1,
+      "name": "jack-01",
+      "_stageId": 1
+    },
+    {
+      "_id": 2,
+      "name": "jack-02",
+      "_stageId": 2
+    },
+    {
+      "_id": 3,
+      "name": "jack-03",
+      "_stageId": 3
+    }
+  ]
+}
