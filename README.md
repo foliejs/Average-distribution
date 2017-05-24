@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# average distribution
 
-note:
-  average distribution system
-=======
 ```bash
                   __                  __                __         
   _____  __  __  / /_  ___           / /_   ____   ____/ /   __  __
@@ -44,4 +39,3 @@ npm start
 MIT License
 
 Copyright (c) 2017 Folie JS
->>>>>>> 608cb913add135333a3bfce68b71010e2a9222b3
