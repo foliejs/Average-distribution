@@ -2,6 +2,7 @@
 # yarn lockfile v1
 
 
+<<<<<<< HEAD
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -234,6 +235,8 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
+=======
+>>>>>>> 08f9b20deeef3e57a0b02911115a9eb3515b4e83
 config@^1.26.1:
   version "1.26.1"
   resolved "https://registry.yarnpkg.com/config/-/config-1.26.1.tgz#f647ce32c345e80ba73a8eaa7a9a4b4e5b290ca1"
@@ -241,6 +244,7 @@ config@^1.26.1:
     json5 "0.4.0"
     os-homedir "1.0.2"
 
+<<<<<<< HEAD
 console-control-strings@^1.0.0, console-control-strings@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
@@ -764,11 +768,17 @@ json-stable-stringify@^1.0.1:
 json-stringify-safe@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
+=======
+http@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/http/-/http-0.0.0.tgz#86e6326d29c5d039de9fac584a45689f929f4f72"
+>>>>>>> 08f9b20deeef3e57a0b02911115a9eb3515b4e83
 
 json5@0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/json5/-/json5-0.4.0.tgz#054352e4c4c80c86c0923877d449de176a732c8d"
 
+<<<<<<< HEAD
 jsonify@~0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/jsonify/-/jsonify-0.0.0.tgz#2c74b6ee41d93ca51b7b5aaee8f503631d252a73"
@@ -1490,3 +1500,8 @@ z-schema@^3.16.1:
     validator "^6.0.0"
   optionalDependencies:
     commander "^2.7.1"
+=======
+os-homedir@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/os-homedir/-/os-homedir-1.0.2.tgz#ffbc4988336e0e833de0c168c7ef152121aa7fb3"
+>>>>>>> 08f9b20deeef3e57a0b02911115a9eb3515b4e83

@@ -1,5 +1,41 @@
 {
   "areaName": "shanghai",
   "_areaId": 1,
+<<<<<<< HEAD
   "people": ["11","22","33","44","55","66","77","88"]
 }
+=======
+  "people": [
+    {
+      "_id": 11,
+      "name": "jack-01",
+      "_stageId": 11
+    },
+    {
+      "_id": 22,
+      "name": "jack-02",
+      "_stageId": 22
+    },
+    {
+      "_id": 33,
+      "name": "jack-03",
+      "_stageId": 33
+    },
+    {
+      "_id": 44,
+      "name": "jack-04",
+      "_stageId": 44
+    },
+    {
+      "_id": 55,
+      "name": "jack-05",
+      "_stageId": 55
+    },
+    {
+      "_id": 66,
+      "name": "jack-06",
+      "_stageId": 66
+    }
+  ]
+}
+>>>>>>> 08f9b20deeef3e57a0b02911115a9eb3515b4e83
