@@ -1,4 +1,4 @@
-# average distribution
+# Average Distribution
 
-note:
-  average distribution system
+Note:
+  Average Distribution System
